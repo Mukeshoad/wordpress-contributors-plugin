@@ -22,9 +22,6 @@ This WordPress plugin allows multiple authors to be assigned to a single post. I
 4. Save/update the post.
 5. Contributors will be displayed at the bottom of the post.
 
-## Screenshots
-![Contributors Metabox](screenshot-1.png)
-![Contributors Display](screenshot-2.png)
 
 ## Development
 - **Language:** PHP, HTML, CSS, JavaScript
