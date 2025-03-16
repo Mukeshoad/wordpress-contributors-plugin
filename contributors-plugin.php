@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Contributors Plugin
- * Plugin URI:  https://yourwebsite.com/
+ * Plugin URI:  https://github.com/mukeshoad
  * Description: Allows multiple contributors to be added to posts.
  * Version:     1.0
  * Author:      Mukesh Kumar
- * Author URI:  https://yourwebsite.com/
+ * Author URI:  https://github.com/mukeshoad
  */
 
 if (!defined('ABSPATH')) {
