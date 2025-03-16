@@ -4,7 +4,7 @@ Requires WordPress Version: 5.0+
 Tested up to: Latest Version
 Requires PHP Version: 7.2+
 License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-2.0.html 
 
 📌 Description
 The WordPress Contributors Plugin allows multiple authors to be assigned to a single post. It introduces a Contributors Metabox in the post editor, enabling users to select multiple contributors. The selected authors are then displayed at the bottom of the post, including their Gravatars and links to their author profiles.
